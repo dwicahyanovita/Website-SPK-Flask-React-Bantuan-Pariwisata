@@ -27,3 +27,7 @@ Proyek ini merupakan **Sistem Pendukung Keputusan (SPK)** untuk pemberian bantua
    npm install
    npm start
    ```  
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/94d545f0-48fe-4cb0-96c7-0a1e9f2acbc1" />
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/5a20e5f3-9892-4860-9629-5238303247b6" />
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/bd606f8f-bdc6-4307-852b-867c52c45f55" />
+
