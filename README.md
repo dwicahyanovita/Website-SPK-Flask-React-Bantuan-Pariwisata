@@ -1,7 +1,7 @@
 
-# **SPK Pemberian Bantuan Pengembangan Desa Wisata**  
+# **SPK Pemberian Bantuan Pengembangan Desa Wisata menggunakan Metode ARAS**  
 
-Proyek ini merupakan **Sistem Pendukung Keputusan (SPK)** untuk pemberian bantuan pengembangan desa wisata, menggunakan **Flask** sebagai backend dan **React.js** sebagai frontend. Sistem ini dirancang untuk membantu dalam proses pengambilan keputusan dengan mempertimbangkan berbagai kriteria, seperti **daya tarik wisata, amenitas, digitalisasi, kelembagaan & SDM, serta resiliensi**.  
+Proyek ini merupakan **Sistem Pendukung Keputusan (SPK)** untuk pemberian bantuan pengembangan desa wisata, menggunakan **Flask** sebagai backend dan **React.js** sebagai frontend. Sistem ini dirancang untuk membantu dalam proses pengambilan keputusan dengan mempertimbangkan berbagai, seperti **daya tarik wisata, amenitas, digitalisasi, kelembagaan & SDM, serta resiliensi**. Menggunakan metode ARAS  
 
 ### **Teknologi yang Digunakan**  
 - **Backend**: Flask (Python), SQLAlchemy, MariaDB  
