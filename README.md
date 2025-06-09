@@ -5,7 +5,7 @@ Proyek ini merupakan **Sistem Pendukung Keputusan (SPK)** untuk pemberian bantua
 
 ### **Teknologi yang Digunakan**  
 - **Backend**: Flask (Python), SQLAlchemy, MariaDB  
-- **Frontend**: React.js, Tailwind CSS  
+- **Frontend**: React.js
 - **API**: RESTful API untuk komunikasi antara frontend dan backend  
 
 ### **Fitur Utama**  
