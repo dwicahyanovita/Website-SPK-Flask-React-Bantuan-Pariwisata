@@ -32,5 +32,6 @@ Proyek ini merupakan **Sistem Pendukung Keputusan (SPK)** untuk pemberian bantua
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/bd606f8f-bdc6-4307-852b-867c52c45f55" />
 <img width="391" alt="image" src="https://github.com/user-attachments/assets/829d45e7-20f6-4022-9555-b6ad2b38aa62" />
 
-Made with ❤️ by Dwi Cahya Novita and team.
+
+Made by Dwi Cahya Novita and team.
 
